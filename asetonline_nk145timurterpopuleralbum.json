@@ -1,0 +1,167 @@
+﻿
+{
+  "Data": 
+
+[
+    {
+        "id": "1",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Obral Cinta - Putry Pasanea",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/1.%20Obral%20Cinta%20-%20Putry%20Pasanea.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "2",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Hati Su Tagae - Sanza Soleman",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/2.%20Hati%20Su%20Tagae%20-%20Sanza%20Soleman.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "3",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Tunggu Kaka Datang - Sanza Soleman",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/3.%20Tunggu%20Kaka%20Datang%20-%20Sanza%20Soleman.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "4",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Michelle Wanggi Paka Laka Boom",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/4.%20Michelle%20Wanggi%20Paka%20Laka%20Boom.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "5",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Michelle Wanggi Sayang Jangan Maraju",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/5.%20Michelle%20Wanggi%20Sayang%20Jangan%20Maraju.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "6",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Berhenti Kasihan - Kapthenpurek",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/6.%20Berhenti%20Kasihan%20-%20Kapthenpurek.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "7",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Kaka Main Salah - Kapthenpurek",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/7.%20Kaka%20Main%20Salah%20-%20Kapthenpurek.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "8",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Nyong Manis - Sanza Soleman",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/8.%20Nyong%20Manis%20-%20Sanza%20Soleman.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "9",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Michelle Wanggi Haters Saki Hati",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/9.%20Michelle%20Wanggi%20Haters%20Saki%20Hati.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "10",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Jaga Orang Pu Jodoh - Sanza Soleman",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/10.%20Jaga%20Orang%20Pu%20Jodoh%20-%20Sanza%20Soleman.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "11",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Rindu Tapi Takut - Kapthenpurek",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/11.%20Rindu%20Tapi%20Takut%20-%20Kapthenpurek.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "12",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Kasih Slow - Putry Pasanea Ft. New Gvme",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/12.%20Kasih%20Slow%20-%20Putry%20Pasanea%20Ft.%20New%20Gvme.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "13",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Kasih Tau Biar Sa Pergi - Bagarap Ft. Indah",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/13.%20Kasih%20Tau%20Biar%20Sa%20Pergi%20-%20Bagarap%20Ft.%20Indah.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "14",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Iyo Kah - Bagarap Ft. Indah",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/14.%20Iyo%20Kah%20-%20Bagarap%20Ft.%20Indah.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "15",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Sa Kalah Ganteng - Kapthenpurek",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/15.%20Sa%20Kalah%20Ganteng%20-%20Kapthenpurek.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "16",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Dengan Koi - Bagarap Ft. Indah",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/16.%20Dengan%20Koi%20-%20Bagarap%20Ft.%20Indah.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "17",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Kaka Enda 2 - Putry Pasanea",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/17.%20Kaka%20Enda%202%20-%20Putry%20Pasanea.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "18",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Jangan Tahan Sa - Kapthenpurek",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/18.%20Jangan%20Tahan%20Sa%20-%20Kapthenpurek.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "19",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Michelle Wanggi Pvackboy",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/19.%20Michelle%20Wanggi%20Pvackboy.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "20",
+        "name_category": "Lagu Timur Terpopuler-Full Album",
+        "title": "Sudah Cinta - Bagarap",
+        "image": "https://5jacobdev.xyz/nk145-LaguTimurTerpopuler/145.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/17.-kaka-enda-2-putry-pasanea/20.%20Sudah%20Cinta%20-%20Bagarap.ogg"
+    }
+]
+
+}
